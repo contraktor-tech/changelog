@@ -2,7 +2,7 @@
 
 > Informações sobre releases, changelogs.
 
-## [1.0.0] - 29-03-2023
+## [1.0.0] - 29/03/2023
 
 ### Adicionado
 
