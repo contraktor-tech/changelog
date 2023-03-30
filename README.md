@@ -1,8 +1,8 @@
-# Contraktor Changelog
+# Contraktor Release Notes
 
 > Informações sobre releases, changelogs.
 
-## Release notes de 29/03/2023
+## Release Notes de 29/03/2023
 
 ### Adicionado
 
