@@ -2,7 +2,7 @@
 
 > Informações sobre releases, changelogs.
 
-## [1.0.0] - 29/03/2023
+## Inicio da ferramenta de changelog - 29/03/2023
 
 ### Adicionado
 
