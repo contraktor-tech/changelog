@@ -2,7 +2,17 @@
 
 > Informações sobre releases, changelogs.
 
-## Release Notes de 03/05/2023
+## Release Notes de 11/04/2023
+
+### Adicionado
+- Adicionado scroll horizontal ao elemento de Tabela;
+
+### Corrigido
+- Ajustado a posição e alinhamento dos botões de filtros;
+- Ajustado a altura do elemento de tabela;
+
+
+## Release Notes de 03/04/2023
 
 ### Adicionado
 
