@@ -2,6 +2,25 @@
 
 > Informações sobre releases, changelogs.
 
+## Release Notes de 26/04/2023
+
+### Adicionado
+
+### Corrigido
+- Corrigido problema em que usuários não conseguiam vincular contratos.
+
+
+## Release Notes de 25/04/2023
+
+### Adicionado
+
+### Corrigido
+- Corrigido problema em que usuários ao filtrar contratos por status, apareciam contratos de outros status.
+
+### Alterado
+- Usuários agoram não podem digitar dois espaços seguidos no título do contrato.
+
+
 ## Release Notes de 11/04/2023
 
 ### Adicionado
