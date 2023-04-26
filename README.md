@@ -9,6 +9,10 @@
 ### Corrigido
 - Corrigido problema em que usuários não conseguiam vincular contratos.
 
+### Alterado
+- Alterado o texto do botões de logar e assinar no fluxo de assinatura.
+- Alterado o texto do botão de confirmados dados ao assinar.
+
 
 ## Release Notes de 25/04/2023
 
