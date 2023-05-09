@@ -2,6 +2,18 @@
 
 > Informações sobre releases, changelogs.
 
+## Release Notes de 08/06/2023
+
+### Adicionado
+
+### Corrigido
+- Solicitação de assinatura agora faz a solicitação correta ao mudar de contrato.
+- Ajustado o modal de filtrar documentos(mobile).
+- Ajustado os icones da gavetar de ferramentas da página de visulizar documento.
+
+### Alterado
+
+
 ## Release Notes de 26/04/2023
 
 ### Adicionado
