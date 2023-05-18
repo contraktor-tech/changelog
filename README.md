@@ -2,7 +2,39 @@
 
 > Informações sobre releases, changelogs.
 
-## Release Notes de 08/06/2023
+
+## Release Notes de 18/05/2023
+
+### Adicionado
+
+### Corrigido
+- Corrigido a exibição em duplicidade do alerta de dicas de segurança no fluxo de assinatura.
+
+### Alterado
+- Atualizado o link dos termos de uso.
+
+
+## Release Notes de 17/05/2023
+
+### Adicionado
+
+### Corrigido
+- Corrigido a ordenação da lista de participantes.
+
+### Alterado
+
+
+## Release Notes de 16/05/2023
+
+### Adicionado
+
+### Corrigido
+- Corrigido a ordenação da lista de participantes.
+
+### Alterado
+
+
+## Release Notes de 08/05/2023
 
 ### Adicionado
 
