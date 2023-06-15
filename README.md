@@ -3,6 +3,16 @@
 > Informações sobre releases, changelogs.
 
 
+## Release Notes de 15/06/2023
+
+### Adicionado
+- Novos exemplos no repositório da documentação pública da API.
+- Novos Schemas na documentação pública da API.
+
+### Corrigido
+
+### Alterado
+
 ## Release Notes de 18/05/2023
 
 ### Adicionado
