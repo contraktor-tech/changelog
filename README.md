@@ -2,6 +2,15 @@
 
 > Informações sobre releases, changelogs.
 
+## Release Notes de 26/06/2023
+
+### Adicionado
+- Disparo/notificação de solicitação de assinatura via WhatsApp.
+- Mudança de serviço responsável por solicitação de assinatura.
+
+### Corrigido
+
+### Alterado
 
 ## Release Notes de 15/06/2023
 
