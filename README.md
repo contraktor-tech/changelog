@@ -2,6 +2,15 @@
 
 > Informações sobre releases, changelogs.
 
+## Release Notes de 28/06/2023
+
+### Adicionado
+
+### Corrigido
+- Disparo de contratos criados por Respostas de Formulário.
+
+### Alterado
+
 ## Release Notes de 26/06/2023
 
 ### Adicionado
