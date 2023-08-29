@@ -1,7 +1,14 @@
 # Contraktor Release Notes
 
 > Informações sobre releases, changelogs.
+## Release Notes de 28/06/2023
 
+### Adicionado
+
+### Corrigido
+
+### Alterado
+ - Edição de participantes 
 ## Release Notes de 28/06/2023
 
 ### Adicionado
